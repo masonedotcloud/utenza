@@ -33,15 +33,11 @@ Prima di eseguire il progetto, assicurati di avere i seguenti requisiti:
    - `$dbname`: il nome del database creato in precedenza
 5. Avvia il tuo server web e accedi all'applicazione tramite il tuo browser.
 
-## Contributi
-
-Sono benvenuti contributi e suggerimenti per migliorare il progetto. Se desideri contribuire, segui questi passaggi:
-
-1. Forka il repository su GitHub.
-2. Crea un nuovo branch con una descrizione significativa del tuo contributo.
-3. Effettua le modifiche nel tuo branch.
-4. Invia una pull request indicando chiaramente le modifiche apportate e il motivo per cui dovrebbero essere accettate.
-
 ## Licenza
 
-Questo progetto è distribuito con la licenza MIT.
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
